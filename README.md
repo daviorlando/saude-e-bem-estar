@@ -26,8 +26,3 @@ Este projeto é uma aplicação web que visa promover a saúde e o bem-estar atr
 - **HTML**: Estrutura básica da página.
 - **CSS**: Estilização usando Bootstrap para uma interface responsiva e atraente.
 - **JavaScript**: Funcionalidade da calculadora de IMC.
-
-## Como Executar o Projeto
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/saude-e-bem-estar.git
